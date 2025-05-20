@@ -13,7 +13,6 @@ This project converts PDFs—encompassing text, tables, and images—into natura
 * **Semantic Search**: Employs Chroma DB and OpenAI embeddings for vectorization and retrieval of contextually relevant information.
 * **Dialogue Generation**: Utilizes GPT-4o Mini to create summaries and generate a two-host podcast script, addressing potential listener questions.
 * **Text-to-Speech Synthesis**: Integrates Google's NotebookLM-based TTS module, `podcastfy`, to produce realistic speech.
-* **Interactive Interface**: Provides a Streamlit app for uploading PDFs and listening to generated podcasts.([GitHub][2])
 
 ## 🧰 Tech Stack
 
