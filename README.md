@@ -1,6 +1,8 @@
 
 # 🎙️ Multimodal RAG – PDF to Podcast
 
+**Transform academic and business PDFs into engaging, conversational podcast episodes using multimodal LLMs, Retrieval-Augmented Generation (RAG), and text-to-speech synthesis.**
+
 ## 🧠 Overview
 
 This project converts PDFs—encompassing text, tables, and images—into natural-sounding podcast episodes. Leveraging a multimodal RAG pipeline, it extracts and summarizes content, generates a two-host dialogue, and synthesizes audio for an immersive listening experience.
