@@ -61,4 +61,7 @@ This generative AI pipeline converts PDFs—encompassing text, tables, and image
 
 You can test the application using the sample PDFs provided in the `data/pdfs/` directory.
 
+## 🎙️ Generated Podcast Example
+A example of podcast audio generated using this pipeline is provided in the `data/audio/` directory.
+
 
