@@ -31,7 +31,7 @@ This generative AI pipeline converts PDFs—encompassing text, tables, and image
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/multimodal-rag-pdf-to-podcast.git
+   git clone https://github.com/yourusername/Multimodal-RAG-PDF-to-Podcast.git
    cd multimodal-rag-pdf-to-podcast
    ```
 
